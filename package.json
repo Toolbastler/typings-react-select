@@ -1,0 +1,27 @@
+{
+  "name": "typings-react-select",
+  "version": "1.0.0",
+  "description": "typings for react-select",
+  "main": "react-select.d.ts",
+  "scripts": {
+    "build": "typings bundle . -o bundle",
+    "test": "ts-node test/test.tsx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/arolson101/typings-react-select"
+  },
+  "keywords": [
+    "typings",
+    "react-select"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1",
+    "react-select": "^0.9.1",
+    "ts-node": "^0.7.1",
+    "typescript": "^1.8.9"
+  }
+}

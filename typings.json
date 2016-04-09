@@ -1,0 +1,10 @@
+{
+  "name": "react-select",
+  "main": "react-select.d.ts",
+  "homepage": "https://github.com/JedWatson/react-select",
+  "dependencies": {
+  },
+  "ambientDependencies": {
+    "react": "registry:dt/react#0.14.0+20160319053454"
+  }
+}
